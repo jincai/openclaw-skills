@@ -7,6 +7,7 @@ Reusable skills for [OpenClaw](https://openclaw.ai) and [Claude Code](https://cl
 | Skill | Description |
 |-------|-------------|
 | [openclaw-logs](./openclaw-logs/) | Query and analyze OpenClaw gateway logs with time range filtering, category grouping, and noise suppression |
+| [infographic](./infographic/) | Generate professional infographic images from articles/tweets using HTML + Playwright high-DPI screenshot |
 
 ## Installation
 
