@@ -6,6 +6,7 @@ Reusable skills for [OpenClaw](https://openclaw.ai) and [Claude Code](https://cl
 
 | Skill | Description |
 |-------|-------------|
+| [oura](./oura/) | Sync and analyze Oura Ring health data — sleep debt tracking, weekly reports, zero dependencies |
 | [openclaw-logs](./openclaw-logs/) | Query and analyze OpenClaw gateway logs with time range filtering, category grouping, and noise suppression |
 | [infographic](./infographic/) | Generate professional infographic images from articles/tweets using HTML + Playwright high-DPI screenshot |
 
